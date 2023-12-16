@@ -1,5 +1,5 @@
 #  presents:   Ｄ Ａ Ｒ Ｋ Ｎ Ｅ Ｓ Ｓ
-![chillax cover]()
+
 
 # Installation
 To download the theme in Better Discord Site:
